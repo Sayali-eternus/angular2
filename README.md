@@ -4,9 +4,8 @@
 ##One time Setup:
 
 - Clone the repository then cd into main folder(i.e 'AngularTraningBasic')
-- npm install
 - npm install -g gulp
-
+- npm install
 
 ##Available Commands:
 
